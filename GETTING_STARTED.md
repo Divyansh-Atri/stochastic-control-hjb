@@ -11,7 +11,6 @@
 ### 1. Install Dependencies
 
 ```bash
-cd stochastic-control-hjb
 pip install -r requirements.txt
 ```
 
@@ -103,12 +102,7 @@ stochastic-control-hjb/
 - Numerical convergence studies
 - Monte Carlo verification
 - Sanity checks
-
-### 4. Research Quality
-- Suitable for IEEE submission
-- Publication-ready figures
-- Detailed mathematical exposition
-- Thorough references
+\ences
 
 ---
 
@@ -214,25 +208,8 @@ In notebooks, adjust:
 3. **Analyze:** Study curse of dimensionality
 4. **Apply:** Use for specific applications (finance, robotics, etc.)
 
-### For Research
-
-1. **2D Extension:** Extend to 2D state space
-2. **Advanced Numerics:** Implement semi-Lagrangian schemes
-3. **Machine Learning:** Combine with neural networks
-4. **Applications:** Apply to real-world problems
-
 ---
 
-## Citation
-
-If you use this code in your research:
-
-```
-Atri, D. (2025). Stochastic Control and Hamilton-Jacobi-Bellman Equations: 
-Theory and Numerical Methods. Research Implementation.
-```
-
----
 
 ## Support
 
@@ -244,10 +221,5 @@ For questions or issues:
 
 ---
 
-## License
-
-This project is released for academic and research purposes.
-
----
 
 **Ready to begin? Start with `notebooks/01_dynamic_programming_and_control.ipynb`**

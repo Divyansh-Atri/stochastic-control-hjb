@@ -1,6 +1,6 @@
 # Stochastic Control and Hamilton-Jacobi-Bellman Equations: Theory and Numerical Methods
 
-A rigorous, research-level implementation of stochastic optimal control theory using the dynamic programming principle and Hamilton-Jacobi-Bellman (HJB) equations. This project provides end-to-end numerical methods for solving optimal control problems of stochastic differential equations, from theoretical derivation to simulation-based verification.
+A rigorous, implementation of stochastic optimal control theory using the dynamic programming principle and Hamilton-Jacobi-Bellman (HJB) equations. This project provides end-to-end numerical methods for solving optimal control problems of stochastic differential equations, from theoretical derivation to simulation-based verification.
 
 ## Author
 
@@ -375,19 +375,4 @@ The `tests/sanity_checks.ipynb` notebook verifies:
 4. **Convergence Tests:** Grid refinement studies
 5. **Stability Tests:** Time step variation
 
-## License
-
-This project is released for academic and research purposes.
-
-## Citation
-
-If you use this code in your research, please cite:
-
-```
-Atri, D. (2025). Stochastic Control and Hamilton-Jacobi-Bellman Equations: 
-Theory and Numerical Methods. Research Implementation.
-```
-
 ---
-
-**Note:** This is a research-level implementation intended for educational and academic purposes. The code prioritizes clarity and correctness over computational efficiency. For production applications, consider specialized libraries and optimized implementations.
